@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: Songil
+Build-Jdk: 19.0.1
+Implementation-Title: Preferred Private Care
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.bookstore
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/com.privatecare.springboot
+Created-By: Maven Integration for Eclipse
+
